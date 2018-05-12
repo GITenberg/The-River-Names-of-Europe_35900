@@ -1,0 +1,27 @@
+_repo: The-River-Names-of-Europe_35900
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferguson, Robert
+    deathdate: 1898
+    gutenberg_agent_id: '37968'
+    url: http://www.gutenberg.org/2009/agents/37968
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Ferguson_%28MP%29
+description: ''
+gutenberg_issued: '2011-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35900'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Rivers -- Europe'
+- !lcsh 'Names, Geographical -- Europe'
+title: The River-Names of Europe
+url: http://www.gutenberg.org/ebooks/35900
