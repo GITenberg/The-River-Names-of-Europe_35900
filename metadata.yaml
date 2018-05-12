@@ -11,6 +11,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37968
     wikipedia: http://en.wikipedia.org/wiki/Robert_Ferguson_%28MP%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35900#The-River-Names-of-Europe
 gutenberg_issued: '2011-04-18'
 gutenberg_type: Text
 identifiers:
